@@ -18,11 +18,11 @@
 - Usage of eval() function and DOM manipulation.
 
 ## Time taken
-- It took me around 1 hours to built this website ;
+- It took me around 1 hours to built this website.
 
 ## Links
-- [live demo](.)
-- [source](.)
+- [live demo](https://simple-calculator-using-javascript.netlify.app/)
+- [source](https://github.com/RAM844/Simple-Calculator-using-javascript)
 
 
 ## Contact me
